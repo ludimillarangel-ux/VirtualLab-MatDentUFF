@@ -1,0 +1,28 @@
+VIRTUALLAB MATDENTUFF — PACOTE PARA HOSPEDAGEM
+Versão atualizada em 03/09/2026
+
+Este ZIP contém a versão mais recente do jogo, incluindo o tutorial visual.
+
+CONTEÚDO
+
+- index.html: página principal do VirtualLab;
+- assets/: modelos 3D, imagens, logotipos e demais recursos necessários.
+
+COMO HOSPEDAR
+
+1. Descompacte o arquivo ZIP.
+2. Mantenha o arquivo index.html e a pasta assets juntos.
+3. Envie os dois para a raiz da plataforma de hospedagem.
+
+O pacote pode ser usado em serviços de sites estáticos, como Netlify,
+Cloudflare Pages, GitHub Pages ou equivalentes.
+
+IMPORTANTE
+
+- Não altere os nomes nem a organização dos arquivos.
+- O navegador precisa de acesso à internet para carregar a biblioteca Three.js.
+- Para testar no computador antes de hospedar, utilize um servidor local; alguns
+  navegadores bloqueiam recursos quando o index.html é aberto diretamente.
+- No celular, o jogo funciona na vertical e na horizontal, com melhor visualização
+  da bancada na posição horizontal.
+
